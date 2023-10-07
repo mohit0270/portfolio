@@ -1,3 +1,10 @@
+# Projects
+- Hacker Man
+- Random Jokes, no repitition
+- Rock, Paper, Scissor
+- Glowing Bulb
+
+
 # Tools
 Websites that cloned to learn web development and improve my skills
 
