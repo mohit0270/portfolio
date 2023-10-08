@@ -1,5 +1,9 @@
 # Projects
+- ToDo List
+- Alarm Clock
+- Digital Clock
 - Hacker Man
+- Password Generator
 - Random Jokes, no repitition
 - Rock, Paper, Scissor
 - Glowing Bulb
