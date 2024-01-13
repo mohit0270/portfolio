@@ -13,7 +13,7 @@
 
 
 # Tools
-Websites that cloned to learn web development and improve my skills
+Websites to clone, to learn web development and improve my skills
 
 ## Websites to make
 - Instagram downloader
@@ -24,4 +24,4 @@ Websites that cloned to learn web development and improve my skills
 - Image size changing
 - Font change - All capital / small letters
 - Coloured image to pure black and white (no grey) image 
-all websites i use for making video
+- Chat bot
