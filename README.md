@@ -17,7 +17,7 @@ Websites to clone, to learn web development and improve my skills
 
 ## Websites to make
 - Instagram downloader
-- Youtube video, tags, thumbnail downloader
+- Youtube video, tags, thumbnail, subtitles downloader
 - Type in English to Hindi text
 - Image background remover
 - Image format convertor
