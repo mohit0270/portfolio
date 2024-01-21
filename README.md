@@ -1,7 +1,13 @@
-# React Projects
-- ToDo List with Google Signin
+See all projects on my website
+https://mohit27.com/
 
-# JS Projects
+## React Projects
+
+- ToDo List with Google Signin
+- Smartphone e-commerce website
+
+## JS Projects
+
 - ToDo List
 - Alarm Clock
 - Digital Clock
@@ -11,17 +17,15 @@
 - Rock, Paper, Scissor
 - Glowing Bulb
 
+## Websites to make / clone
 
-# Tools
-Websites to clone, to learn web development and improve my skills
+to learn web development and improve my skills
 
-## Websites to make
-- Instagram downloader
+- Instagram reel, post, story, bio, highlight downloader
 - Youtube video, tags, thumbnail, subtitles downloader
-- Type in English to Hindi text
 - Image background remover
 - Image format convertor
-- Image size changing
 - Font change - All capital / small letters
-- Coloured image to pure black and white (no grey) image 
 - Chat bot
+- Type in English, convert to Hindi text
+- Hindi Voice to text
